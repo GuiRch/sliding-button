@@ -7,3 +7,5 @@ This librairie allowed me to add props in my CSS atributes.
 
 This app is made of the main page `App.js` and a reusable component `SlidingButton.js`.
 
+The form is completed when something have been written in the mail and in the password input. When the form is completed the Button goes green and can be clicked. Otherwise the button will escape your cursor.
+

@@ -49,7 +49,6 @@ const App = () => {
   const renderFrom = () => {
     return(
       <div style = {styles.formContainer}>
-        {/* <div style={styles.titleContainer}>Title</div> */}
         <input 
           style={styles.textInput} 
           type="email" 
